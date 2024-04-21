@@ -33,9 +33,12 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eshwar-333&theme=vue"/>
 </p>
+
 ### &#x1f4c8; GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eshwar-333&show_icons=true&locale=en&layout=compact" alt="eshwar-333" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eshwar-333&show_icons=true&locale=en" alt="eshwar-333" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eshwar-333&" alt="eshwar-333" /></p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eshwar-333&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
