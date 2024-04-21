@@ -1,5 +1,5 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://mizzcode.io)
-<h1 align="center">Hi 👋, I'm Chalamalla Eshwar</h1>
+<h1 align="center">Hi 👋, I'm Eshwar Chalamalla </h1>
 <h3 align="center">An aspiring MERN full-stack developer and data scientist from India.</h3>
 
 <img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="coding" width="400" align="right"/>
@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **MERN and DATA SCIENCE**
 
 - 📫 How to reach me **chalamallan3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/126q-LVxYxTYbGF7QwW4wW5FqfeZ28pdi/view?usp=sharing](https://drive.google.com/file/d/126q-LVxYxTYbGF7QwW4wW5FqfeZ28pdi/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/126q-LVxYxTYbGF7QwW4wW5FqfeZ28pdi/view?usp=sharing]([https://drive.google.com/file/d/126q-LVxYxTYbGF7QwW4wW5FqfeZ28pdi/view?usp=sharing](https://drive.google.com/file/d/1NFpm799khDBWT-uiyykqd6Moun5iULr1/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
