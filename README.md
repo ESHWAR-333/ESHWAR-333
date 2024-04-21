@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React Native**
   
-- 👨‍💻 Check out my Portfolio Website [My Website](https://voluble-twilight-169822.netlify.app/)
+- 👨‍💻 Check out my Portfolio Website [Here](https://voluble-twilight-169822.netlify.app/)
 
 
 - 💬 Ask me about **MERN and DATA SCIENCE**
