@@ -17,15 +17,15 @@
 
 - 📫 How to reach me **chalamallan3@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NFpm799khDBWT-uiyykqd6Moun5iULr1/view?usp=sharing">Here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1NFpm799khDBWT-uiyykqd6Moun5iULr1/view?usp=sharing" target="_blank">Here</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eshwar-chalamalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshwar-chalamalla" height="30" width="40" /></a>
-<a href="https://instagram.com/_eshwar.33_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_eshwar.33_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/eshwar-chalamalla" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eshwar-chalamalla" height="30" width="40" /></a>
+<a href="https://instagram.com/_eshwar.33_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_eshwar.33_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/chalamallan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chalamallan3" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/eshwar33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshwar33" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/chalamallan3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chalamallan3" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/eshwar33" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="eshwar33" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/chalamallan3" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="chalamallan3" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
