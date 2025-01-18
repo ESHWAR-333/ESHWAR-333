@@ -1,6 +1,6 @@
 ![MasterHead](https://camo.githubusercontent.com/3167026abe932fe28cb61a7308549da706bc1a8ee81a3cc3169ea75991d2e3d5/68747470733a2f2f692e6962622e636f2f6b3234343135622f4769746875622d42616e6e65722e676966)
 <h1 align="center">Hi 👋, I'm Eshwar Chalamalla </h1>
-<h3 align="center">An aspiring MERN full-stack developer and data scientist from India.</h3>
+<h3 align="center">A passionate Data Engineer and programming enthusiast from India.</h3>
 
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T083450Z&X-Amz-Expires=300&X-Amz-Signature=ae0103a7bdc80795f48015f89c6e88c857e8dca1b20d2f69217e21c757236201&X-Amz-SignedHeaders=host" alt="coding" width="400" align="right"/>
 
@@ -8,12 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱  I’m delving deeper into **Apache Spark and Cloud Data Platforms**.
   
 - 👨‍💻 Check out my Portfolio Website [Here](https://voluble-twilight-169822.netlify.app/)
 
-
-- 💬 Ask me about **MERN and DATA SCIENCE**
+- 💬 Ask me about **Data Engineering, ETL processes, Python programming and MERN**
 
 - 📫 How to reach me **chalamallan3@gmail.com**
 
