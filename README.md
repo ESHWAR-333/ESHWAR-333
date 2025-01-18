@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Eshwar Chalamalla </h1>
 <h3 align="center">An aspiring MERN full-stack developer and data scientist from India.</h3>
 
-<img src="https://www.web24zone.com/wp-content/uploads/2022/09/2c778e_89d09c380b7b4a09bcdbcb329c4734b3_mv2.gif" alt="coding" width="400" align="right"/>
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250118%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250118T083450Z&X-Amz-Expires=300&X-Amz-Signature=ae0103a7bdc80795f48015f89c6e88c857e8dca1b20d2f69217e21c757236201&X-Amz-SignedHeaders=host" alt="coding" width="400" align="right"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eshwar-333&label=Profile%20views&color=0e75b6&style=flat" alt="eshwar-333" /> </p>
 
