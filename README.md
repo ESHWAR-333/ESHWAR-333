@@ -37,9 +37,7 @@
   <a href="https://aws-amazon-link" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
   </a>
-  <a href="https://arduino-link" target="_blank" rel="noreferrer">
-    <img src="https://camo.githubusercontent.com/6fcd1c570f8a902233682fea6938ec8e8a3727080ad41312ce5a39004de43087/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f61726475696e6f2d312e737667" alt="arduino" width="40" height="40"/>
-  </a>
+  
   <a href="https://gnu-bash-link" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/b12f5974f22654ef48a4f981aaab21dfd0597c8d5e48de11315744ef5e5added/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676e755f626173682f676e755f626173682d69636f6e2e737667" alt="gnu bash" width="40" height="40"/>
   </a>
