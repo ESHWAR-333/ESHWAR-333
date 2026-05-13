@@ -1,3 +1,5 @@
+<div align="center">
+  
 # Eshwar Chalamalla
 
 **Data Engineer | Big Data Specialist | Full Stack Developer**
@@ -9,6 +11,8 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://www.leetcode.com/eshwar33)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ESHWAR-333&color=0e75b6&style=flat&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -49,7 +53,7 @@ Experienced Data Engineer with a strong background in building scalable data pip
 
 ## 📊 Statistics
 
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ESHWAR-333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0e75b6&icon_color=0e75b6&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/ESHWAR-333) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ESHWAR-333&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/ESHWAR-333) |
+| [![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=eshwar-333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&include_all_commits=true&count_private=true&cache_seconds=1800)](https://github.com/ESHWAR-333) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ESHWAR-333&theme=tokyonight&hide_border=true&background=0D1117&stroke=0e75b6&ring=0e75b6&fire=FF6B6B&currStreakLabel=C9D1D9)](https://github.com/ESHWAR-333) |
 | --- | --- |
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ESHWAR-333&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=0e75b6&line=0e75b6&point=FFFFFF)](https://github.com/ESHWAR-333)
@@ -57,6 +61,8 @@ Experienced Data Engineer with a strong background in building scalable data pip
 ---
 
 ## 💻 Technology Stack
+
+<div align="center">
 
 ### Languages
 
@@ -106,6 +112,7 @@ Experienced Data Engineer with a strong background in building scalable data pip
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
 
+</div>
 ---
 
 ## 🚀 Featured Projects
